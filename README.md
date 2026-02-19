@@ -45,7 +45,6 @@ This GitHub showcases my journey from Cloud/Application Support to full Azure Cl
 ### 📊 Monitoring & Observability
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="50"/>
-<img src="https://www.svgrepo.com/show/353924/logicmonitor.svg" width="50"/>
 
 ### 🧑‍💻 Scripting & Automation
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="50"/>
