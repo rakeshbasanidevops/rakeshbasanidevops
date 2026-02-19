@@ -22,11 +22,10 @@ This GitHub showcases my journey from Cloud/Application Support to full Azure Cl
 
 ### ☁️ Cloud Platforms
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="50"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/>
 
 ### 🏗️ Infrastructure as Code
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bicep/bicep-original.svg" width="50"/>
 
 ### 🚀 DevOps & CI/CD
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" width="50"/>
@@ -46,7 +45,7 @@ This GitHub showcases my journey from Cloud/Application Support to full Azure Cl
 ### 📊 Monitoring & Observability
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="50"/>
-<!-- LogicMonitor & ITRS Geneos do not have official icons, but we can add custom PNGs if you want -->
+<img src="https://www.svgrepo.com/show/353924/logicmonitor.svg" width="50"/>
 
 ### 🧑‍💻 Scripting & Automation
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="50"/>
@@ -54,10 +53,7 @@ This GitHub showcases my journey from Cloud/Application Support to full Azure Cl
 
 ### 🗄️ Databases
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50"/>
-
----
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50"/>
 
 ## 📂 **Featured Projects**
 ### 🔹 **Azure Landing Zone (Terraform)**
