@@ -83,9 +83,9 @@ Lift‑and‑shift migration with architecture diagrams and documentation.
 
 ## 📫 **Connect With Me**
 📧 Email: cloudwithrakesh@gmail.com  
-📍 Preston, UK  
+📍 England,UK  
 🔗 LinkedIn: *Add your link here*  
-🔗 GitHub:(https://github.com/rakeshbasanidevops/rakeshbasanidevops)
+🔗 GitHub:(https://github.com/rakeshbasanidevops)
 
 ---
 
