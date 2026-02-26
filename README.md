@@ -32,6 +32,7 @@ This GitHub showcases my journey from Cloud/Application Support to full Azure Cl
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" width="50"/>
+<img src="https://maven.apache.org/images/maven-logo-black-on-white.png" width="200"/>
 
 ### 🐳 Containers & Orchestration
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50"/>
