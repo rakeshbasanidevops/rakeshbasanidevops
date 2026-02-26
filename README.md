@@ -10,7 +10,7 @@ This GitHub showcases my journey from Cloud/Application Support to full Azure Cl
 
 ## 🚀 **What I Do**
 - Design and deploy Azure infrastructure (Compute, Networking, Storage, IAM, Monitoring)  
-- Build Infrastructure‑as‑Code using **Terraform** and **Bicep**  
+- Build Infrastructure‑as‑Code using **Terraform**,**CloudFormation** and **Bicep**  
 - Create CI/CD pipelines using **Azure DevOps**, **GitHub Actions**, and **Jenkins**  
 - Containerise applications using **Docker**  
 - Automate operational tasks using **Bash**, **PowerShell**, and **Azure CLI**  
