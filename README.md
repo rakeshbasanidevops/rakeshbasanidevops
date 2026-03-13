@@ -56,6 +56,10 @@ This GitHub showcases my journey from Cloud/Application Support to full Azure Cl
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50"/>
 
 ## 📂 **Featured Projects**
+### 🔹 **AWS Cloud Fun Facts Generator project**
+The Cloud Fun Facts Generator with a click of a button, it delivers random cloud facts, and behind the scenes, you’ll connect multiple AWS services to make it dynamic, scalable, and interactive.
+Deploying with a Lambda + API Gateway backend, optionally add DynamoDB to store facts, and can even integrate Amazon Bedrock to generate witty, AI-powered responses.
+
 ### 🔹 **Azure Landing Zone (Terraform)**
 A production‑ready Azure landing zone aligned with Microsoft CAF.  
 Includes VNets, NSGs, Key Vault, Log Analytics, RBAC, and Policies.
@@ -68,9 +72,6 @@ Containerised a sample app and deployed it to Azure App Service with CI/CD.
 
 ### 🔹 **Azure Monitoring & Alerting Setup**
 Log Analytics workspace, dashboards, alerts, and action groups.
-
-### 🔹 **On‑Prem to Azure Migration Simulation**
-Lift‑and‑shift migration with architecture diagrams and documentation.
 
 ---
 
